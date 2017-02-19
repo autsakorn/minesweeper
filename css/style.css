@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   padding: 1px;
   box-sizing: border-box;
-  background: teal url(http://core0.staticworld.net/images/article/2014/04/windows-xp-bliss-start-screen-100259803-orig.jpg) center/cover no-repeat;
   counter-reset: mines 10;
 }
 
